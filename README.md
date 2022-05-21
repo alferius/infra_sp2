@@ -46,7 +46,6 @@ YaMDB отправляет письмо с кодом подтверждения
 **Шаблон .env**
 SECRET_KEY=свой секретный ключ
 SERVER_NAMES=localhost 127.0.0.1 web
-DB_ENGINE=django.db.backends.postgresql
 DB_NAME=postgres
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=свой пароль
